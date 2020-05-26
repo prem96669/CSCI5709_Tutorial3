@@ -1,0 +1,5 @@
+References for tutorial 3:
+
+[1] "Autocomplete React component - Material-UI", Material-ui.com, 2020. [Online]. Available: https://material-ui.com/components/autocomplete/. [Accessed: 24- May- 2020].
+
+[2] "How to center elements vertically on a create-react-app project - DEV", Dev.to, 2020. [Online]. Available: https://dev.to/mcrowder65/how-to-center-elements-horizontally-on-a-create-react-app-project-1omn. [Accessed: 24- May- 2020].

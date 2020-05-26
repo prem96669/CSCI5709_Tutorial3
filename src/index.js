@@ -1,16 +1,15 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./index.css";
-// import App from "./App";
-import Search from "./components/AutoCompleteDemo"
-import * as serviceWorker from "./serviceWorker";
-import Catalogs from "./components/catalogs"
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import * as serviceWorker from './serviceWorker';
+import "bootstrap/dist/css/bootstrap.css"
+import Autocomplete from "./components/autocomplete"
 
 ReactDOM.render(
   <React.StrictMode>
-    <Catalogs />
-    <Search/>
+    <Autocomplete />
   </React.StrictMode>,
   document.getElementById("root")
 );
+
 serviceWorker.unregister();
